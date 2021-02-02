@@ -27,10 +27,6 @@ function apprendreetcommencer_register_assets()
 }
 
 
-/*PAS UTILE ICI JUSTE IMPLEMENTATION DES FILTERS*/
-function apprendreetcommencer_title_separator(){
-    return '|';
-}
 
 //Inclusion de classitem dans les li de la navbar
 
@@ -46,7 +42,7 @@ function apprendreetcommencer_menu_link_class(array $attrs): array{
 add_action('after_setup_theme', 'apprendreetcommencer_supports');
 add_action('wp_enqueue_scripts' , 'apprendreetcommencer_register_assets'); 
 // !!!!!! wp_enqueue_scripts et non styles !!!!!!!!!!!!!!!!!!!!!!!!
-add_filter('document_title_separator', 'apprendreetcommencer_title_separator');
+
 add_filter('nav_menu_css_class', 'apprendreetcommencer_menu_class');
 
 add_filter('nav_menu_link_attributes', 'apprendreetcommencer_menu_link_class');
