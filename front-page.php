@@ -8,7 +8,7 @@
         <a href="<?= get_post_type_archive_link('post') ?>">Voir les archives</a>
 
         
-<?php endwhile; endif ?>
+<?php endwhile; endif;  wp_reset_postdata(); ?>
         
 
     <?php get_footer() ?>
