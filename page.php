@@ -17,7 +17,7 @@
     // 1. On définit les arguments pour définir ce que l'on souhaite récupérer
     $args = array(
         'post_type' => 'pourquoi-des-methodes',
-        'posts_per_page' => 3,
+        'posts_per_page' => 2,
         'order' => 'ASC'
     );
 
@@ -50,13 +50,11 @@
   
 
 
-
-
-
 <?php
-/*
+
 
 echo esc_html(get_the_title());
+echo get_category_link(2);
 
 $title = esc_html(get_the_title());
 
@@ -87,6 +85,6 @@ if ($my_query->have_posts()) : while ($my_query->have_posts()) : $my_query->the_
     endwhile;
 endif;
 wp_reset_postdata();
-*/
+
 ?>
 <?php get_footer() ?>

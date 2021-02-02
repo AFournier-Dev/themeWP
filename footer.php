@@ -6,6 +6,8 @@
                 'menu_class' => 'navbar-nav mr-auto',
                 ]) ?>
   
+
+  
 <?php wp_footer() ?><!--permet d'inclure toutes les fonctions dans le footer -->
 
 </body>
