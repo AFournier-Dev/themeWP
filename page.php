@@ -53,8 +53,8 @@
 <?php
 
 
-echo esc_html(get_the_title());
-echo get_category_link(2);
+// echo esc_html(get_the_title());
+// echo get_category_link(2);
 
 $title = esc_html(get_the_title());
 
