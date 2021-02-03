@@ -1,5 +1,5 @@
 <?php get_header() ?>
-
+<!-- NEVER USE -->
 <div class="row" id="front-page">
     <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
             <div class="row">

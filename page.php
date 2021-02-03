@@ -9,10 +9,7 @@
             <div class="intro">
                 <?php the_content(); ?>
             </div>
-    <?php endwhile;
-    endif;
-    wp_reset_postdata();
-    ?>
+    <?php endwhile; endif; wp_reset_postdata(); ?>
     <?php
     // 1. On définit les arguments pour définir ce que l'on souhaite récupérer
     $args = array(
@@ -20,11 +17,8 @@
         'posts_per_page' => 2,
         'order' => 'ASC'
     );
-
     // 2. On exécute la WP Query
     $my_query = new WP_Query($args); ?>
-
-
     <div class="row">
         <?php // 3. On lance la boucle !
         if ($my_query->have_posts()) : while ($my_query->have_posts()) : $my_query->the_post();
@@ -35,24 +29,13 @@
                         <h3><?php the_title(); ?></h3>
                     </a>
                 </div>
-        <?php
-            endwhile;
-        endif;
-
-        // 4. On réinitialise à la requête principale (important)
-        wp_reset_postdata(); ?>
+        <?php endwhile; endif;  wp_reset_postdata(); ?>    <!-- 4. On réinitialise à la requête principale (important) -->     
     </div>
     <a href="<?php the_permalink() ?>">Découvrir pourquoi des méthodes</a>
-    <?php
 
-
-    wp_reset_postdata(); ?>
-
-
+    <?php wp_reset_postdata(); ?>
 
     <?php
-
-
     // echo esc_html(get_the_title());
     // echo get_category_link(2);
 
@@ -76,15 +59,9 @@
             break;
     }
     $my_query = new WP_Query($args);
-    if ($my_query->have_posts()) : while ($my_query->have_posts()) : $my_query->the_post();
-            the_content();
-    ?>
-            <a href="<?php the_permalink() ?>">lien </a>
+    if ($my_query->have_posts()) : while ($my_query->have_posts()) : $my_query->the_post(); the_content();?>
+    <a href="<?php the_permalink() ?>">lien </a>
 
-    <?php
-        endwhile;
-    endif;
-    wp_reset_postdata();
-    ?>
+    <?php endwhile; endif; wp_reset_postdata();?>
     
     <?php get_footer() ?>

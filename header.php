@@ -13,7 +13,17 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><?php bloginfo('name') ?></a>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1508 89">
+                <text id="APPRENDRE_COMMENCER" data-name="APPRENDRE &amp; COMMENCER" transform="translate(0 69)" fill="#0800e8" font-size="72" font-family="BodoniMT, Bodoni MT">
+                    <tspan x="0" y="0">A</tspan>
+                    <tspan y="0" font-size="58" font-family="FuturaBT-Light, Futura Lt BT" font-weight="300" fill="#000">PPRENDRE</tspan>
+                    <tspan y="0" font-size="58" fill="#000"> </tspan>
+                    <tspan y="0" font-family="FuturaBT-Light, Futura Lt BT" font-weight="300" fill="#000">&amp;</tspan>
+                    <tspan y="0" font-size="58" fill="#000"> </tspan>
+                    <tspan y="0" fill="#fc0d0b">C</tspan>
+                    <tspan y="0" font-size="58" font-family="FuturaBT-Light, Futura Lt BT" font-weight="300" fill="#000">OMMENCER</tspan>
+                </text>
+            </svg>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
