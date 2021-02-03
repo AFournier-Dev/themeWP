@@ -4,7 +4,7 @@
     <div class="col">
     </div>
     <div class="col">
-        <h1>Le play book</h1>
+        <h1>Un play book (parmi d'autre)</h1>
     </div>
     <div class="col">
     </div>

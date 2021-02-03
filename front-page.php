@@ -31,7 +31,7 @@
                 <div class="row mt-2">
                         <a href="<?= get_post_type_archive_link('post') ?>" class="btn btn-primary">Voir les archives</a>
                 </div>
-                <div class="container-fluid">
+           
         <?php endwhile;
 endif;
 wp_reset_postdata(); ?>
