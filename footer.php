@@ -1,14 +1,16 @@
 </div>
 
 
+<footer class="footer" id="footer">
+</footer>
 
-
-
+<!-- 
 
 <div class="d-grid gap-2 col-6 mx-auto mt-2 mb-2">
     <a href="<?= get_home_url() ?>/mise-en-garde" class="btn btn-danger" type="button">Mise en garde</a>
     <a href="<?= get_home_url() ?>/politique-de-confidentialite" class="btn btn-primary" type="button">Politique de confidentialité</a>
 </div>
+-->
 
 
 
