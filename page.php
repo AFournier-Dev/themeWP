@@ -38,7 +38,7 @@
         wp_reset_postdata(); ?>
         <!-- 4. On réinitialise à la requête principale (important) -->
     </div>
-    <a href="<?php the_permalink() ?>">Découvrir pourquoi des méthodes</a>
+    
 
     <?php wp_reset_postdata(); ?>
 

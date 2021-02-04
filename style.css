@@ -1,6 +1,16 @@
 /*
 Theme Name: apprendre&commencer
 */
+
+
+
+
+
+
+
+
+
+
 @font-face {
     font-family: 'Bodoni MT';
     src: url('/assets/police/BOD_B') format('ttf'),
@@ -16,4 +26,8 @@ footer {
     position: relative;
     height: 200px;
     margin-top: -200px;
+}
+
+svg {
+    text-decoration: none;
 }
