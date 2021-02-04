@@ -16,17 +16,17 @@
                         <p>Avec de tel chiffre pour l'entreprenariat il serai dangereux de croire que l'adventure est facile. La méthodologie est l'étude de l'ensemble des méthodes scientifiques. Elle peut être considérée comme la science de la méthode, ou « méthode des méthodes ». Wikipédia</p>
                 </div>
 
-                <div class="d-grid gap-2 col-6 mx-auto mt-2">
+                <div class="d-grid gap-2 col-6 mx-auto mt-2 " >
                         <div class="row mt-2 mb-2">
                                 <div class="col-4">
                                         <a href="
-                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-danger">Pourquoi des méthodes</a>
+                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-danger" style="background-color: #FC0D0B;">Pourquoi des méthodes</a>
                                 </div>
                                 <div class="col-4">
-                                        <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-danger">Quelques méthodes</a>
+                                        <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-danger" style="background-color: #FC0D0B;">Quelques méthodes</a>
                                 </div>
                                 <div class="col-4">
-                                        <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-danger">Appliquer des méthodes</a>
+                                        <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-danger" style="background-color: #FC0D0B;">Appliquer des méthodes</a>
                                 </div>
                         </div>
                 </div>
@@ -34,7 +34,7 @@
 
                 <div class="d-grid gap-2 col-6 mx-auto mt-2">
                         <div class="row mt-2">
-                                <a href="<?= get_post_type_archive_link('post') ?>" class="btn btn-primary">Voir les archives</a>
+                                <a href="<?= get_post_type_archive_link('post') ?>" class="btn btn-primary" >Voir les archives</a>
                         </div>
                 </div>
 
