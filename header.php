@@ -14,6 +14,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
         <div class="container-fluid">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1508 89">
+            <a href=<?= get_home_url() ?>>
                 <text id="APPRENDRE_COMMENCER" data-name="APPRENDRE &amp; COMMENCER" transform="translate(0 69)" fill="#0800e8" font-size="72" font-family="BodoniMT, Bodoni MT">
                     <tspan x="0" y="0">A</tspan>
                     <tspan y="0" font-size="58" font-family="FuturaBT-Light, Futura Lt BT" font-weight="300" fill="#000">PPRENDRE</tspan>
