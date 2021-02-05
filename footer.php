@@ -6,10 +6,11 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
+
+
     <div class="container-fluid">
         <footer class="footer" id="footer">
-            <div class="col-sm-8 mx-auto">
-
+            <div class="col-sm-10 mx-auto">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">                    
                 </button>
 
