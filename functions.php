@@ -19,8 +19,9 @@ function apprendreetcommencer_register_assets()
     wp_register_style('bootstrap', 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css', []);
     wp_register_script('bootstrap', 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js', ['popper', 'jquery'], false, true);
     wp_register_script('popper', 'https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js', [], false, true);
-
+    wp_register_style('style', '/style.css', []);
     wp_enqueue_style('bootstrap');
+    wp_enqueue_style('style');
     wp_enqueue_script('bootstrap');
 }
 

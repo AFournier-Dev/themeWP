@@ -1,3 +1,11 @@
 /*
 Theme Name: apprendre&commencer
 */
+
+.container-fluid{
+    position:fixed;
+    bottom:0;
+    left: 0;
+    right: 0;
+    padding-left: 100%;
+}

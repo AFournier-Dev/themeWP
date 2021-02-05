@@ -13,7 +13,7 @@
     endif;
     wp_reset_postdata(); ?>
 
-    
+
     <?php
     // 1. On définit les arguments pour définir ce que l'on souhaite récupérer
     $args = array(
@@ -38,7 +38,7 @@
         wp_reset_postdata(); ?>
         <!-- 4. On réinitialise à la requête principale (important) -->
     </div>
-    
+
 
     <?php wp_reset_postdata(); ?>
 
@@ -74,4 +74,5 @@
     endif;
     wp_reset_postdata(); ?>
 
-    <?php get_footer() ?>
+</div>
+<?php get_footer() ?>
