@@ -5,15 +5,83 @@
 
 
                 <div class="container mt-4">
-                        <h1>Contexte entreprenarial en France en 2021</h1>
+
+                        <h1>
+                                La méthodologie de conduite de projet dans l'entreprenariat
+                        </h1>
+                        <h2>
+                                La création d'une entreprise vous tente mais vous n'êtes pas encore vraiment décidé ? Il vous manque "la bonne idée" pour songer sérieusement à vous lancer ?
+                        </h2>
+                        <p>Vous envisagez d'entreprendre ? Bienvenue. Nous vous proposons d 'expolorer la thématique des méthodes / méthodologies dans la conduite de projet entreprenariaux</p>
+
+
+                        <h3>
+                                En résumé
+                        </h3>
+
+                        <ul>
+                                <li>
+                                        Tout le monde peut créer une entreprise, dès l’instant où l’on construit un projet à sa mesure, cohérent avec ses valeurs, sa personnalité, ses ambitions, ses objectifs personnels et bien sûr ses possibilités financières.
+                                </li>
+                                <li>
+                                        Un entrepreneur, ce n’est pas forcément quelqu’un qui a eu "l’idée du siècle" et réussi à lever des millions de capitaux… Le micro-entrepreneur, le franchisé, le commerçant, le coiffeur, le free-lance, l'agriculteur, l’architecte…, peu importe la nature d'activité, ce sont tous des entrepreneurs dès l’instant où ils agissent en toute indépendance juridique et sous leur propre responsabilité.
+                                </li>
+                                <li>
+                                        Identifiez les aides et financements possibles pour votre création d'entreprise, et votre jeune entreprise innovante.
+                                </li>
+                                <li>
+                                        Créer ou reprendre une entreprise c’est une aventure passionnante, mais qui n’est pas exempte de risque. Mais ce risque, pour qu’il soit acceptable, doit être identifié et maîtrisé. La reprise d'entreprise se prépare étape par étape, soyez accompagné dans la définition de votre projet, ainsi que dans vos démarches administratives.
+                                </li>
+                                <li>
+                                        Ne restez pas seul ! Des professionnels sont à votre disposition pour vous écouter, vous apporter un regard extérieur et vous accompagner dans vos réflexions.
+                                </li>
+                        </ul>
+
+                        <h3>Contexte entreprenarial en France en 2021</h3>
                         <p>21% des Français (soit 11 millions de personnes) déclarent avoir envie de créer une entreprise, d’en reprendre une ou de se mettre à leur compte en 2021. 58% d’entre eux (3,7 millions de personnes) déclarent vouloir concrétiser leur projet dans les deux ans à venir, soit une augmentation de 4 points par rapport à janvier 2020
                                 Des futurs entrepreneurs bien préparés. 34% des entrepreneurs potentiels déclarent cette année avoir un projet bien préparé à court terme, soit une augmentation de 3 points par rapport à la précédente édition du baromètre. Ce sont ainsi 7% des Français qui ont un projet d’entrepreneuriat prêt à débuter dans les deux ans. Autre signal positif, cette proportion reste dans la moyenne observée au cours des années passées (entre 5% et 7% depuis 2016). Des jeunes toujours séduits par l’aventure entrepreneuriale. Le baromètre démontre également le maintien de l’intérêt des jeunes pour les perspectives d’entrepreneuriat, et ce même avant leur entrée sur le marché du travail. Ce sont ainsi 36% des étudiants qui déclarent vouloir créer leur entreprise en 2021.
                         </p>
+                        <h3>
+                                Il y a différentes façons d’entreprendre.
+                        </h3>
+                        <h4>
+                                Tout dépend de votre ambition et de vos objectifs. Vous souhaitez par exemple :
+                        </h4>
+
+                        <ul>
+                                <li>Créer votre propre emploi, par nécessité ou par volonté d’indépendance,
+                                </li>
+                                <li>Lancer un nouveau produit, service, ou concept, qui répond à un besoin exprimé,
+                                </li>
+                                <li>Créer une entreprise à fort potentiel de développement et d’emplois,
+                                </li>
+                                <li>Reprendre une entreprise existante pour la développer,
+                                </li>
+                                <li>Créer une entreprise avec l’objectif de devenir très rapidement leader sur votre marché,
+                                </li>
+                                <li>Devenir franchisé et exercer une activité qui a déjà fait ses preuves ailleurs, etc.
+                                </li>
+                        </ul>
+                        <p>Le créateur de startup, le micro-entrepreneur ( auto-entrepreneur), le repreneur, le franchisé, le commerçant, le coiffeur, le free-lance, l’artisan, l'agriculteur ou le professionnel libéral (avocat, médecin, notaire, architecte…) : ce sont tous entrepreneurs ! Ils ne sont plus salariés, ils agissent en toute indépendance juridique et sous leur propre responsabilité. Certains d’entre eux cherchent à donner un nouveau sens à leur vie professionnelle.</p>
+
+                        <h2>
+                                Pourquoi la notion de méthode</h2>
+                        <p>
+                                La définition de méthode est l' <q>ensemble de démarches raisonnées, suivies pour parvenir à un but.</q>
+                        </p>
+
+
+
                 </div>
 
                 <div class="container mt-2">
-                        <h2>Qu'est ce que sont les méthodes</h2>
-                        <p>Avec de tel chiffre pour l'entreprenariat il serai dangereux de croire que l'adventure est facile. La méthodologie est l'étude de l'ensemble des méthodes scientifiques. Elle peut être considérée comme la science de la méthode, ou « méthode des méthodes ». Wikipédia</p>
+                        <h3>La méthodologie de conduite de projet dans l'entreprenariat</h3>
+                        <p>
+                                Avec de tel chiffre pour l'entreprenariat il serai dangereux de croire que l'aventure est facile.
+                        </p>
+
+                        <h3>Qu'est ce que sont les méthodes</h3>
+                        <p> La méthodologie est l'étude de l'ensemble des méthodes scientifiques. Elle peut être considérée comme la science de la méthode, ou « méthode des méthodes ». Wikipédia</p>
                 </div>
 
                 <div class="d-grid gap-2 col-6 mx-auto mt-2 ">
@@ -39,16 +107,6 @@
                 </div> -->
 
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam deleniti ipsum, nisi maxime voluptatem quos explicabo illum neque, alias eum mollitia dolores animi porro, temporibus sit. Aperiam vero dicta quaerat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti, voluptas nam! Quae quisquam fugiat molestiae dolore provident adipisci quam ratione sapiente dicta quod. Cum, voluptatibus cupiditate eius error maiores inventore.
-                        Error, eaque exercitationem soluta, nisi fuga quibusdam ad vel tenetur accusantium quaerat doloribus voluptas provident. Voluptas ut rem sed molestiae veniam atque! Blanditiis inventore illo qui, asperiores quas distinctio obcaecati?
-                        Nemo ipsa, nihil mollitia nostrum explicabo quam sunt quis enim officiis eius quos iste est asperiores quae provident saepe corporis. Repudiandae magnam veritatis nobis quas sit hic aut quis nesciunt?
-                        Laborum asperiores esse porro earum hic maiores qui impedit at blanditiis, veritatis illo doloremque ullam iure placeat? Earum quis, omnis a totam natus maxime ipsa dolorem nostrum ipsam ratione recusandae?
-                        Saepe autem dolorum quidem aspernatur vitae aliquam nisi quis ea voluptate pariatur ratione quibusdam in minima unde quia, ipsum, repellendus repudiandae ipsa. Maiores quos velit aliquam est doloremque et omnis?
-                        Et repudiandae sapiente officiis quas ad labore aut voluptatem autem nemo eum inventore nihil, illum minima quibusdam numquam voluptatum! Excepturi laudantium praesentium tempora est dolorem fugiat ab molestias suscipit fugit.
-                        Accusamus cupiditate aperiam eligendi, qui blanditiis fugiat aliquam! Fuga rem magnam omnis aspernatur molestiae quod accusamus, blanditiis amet ut recusandae sint, aperiam provident cupiditate quae. Dolores error tenetur saepe fugit.
-                        Enim ratione atque magnam nesciunt eos possimus delectus doloribus impedit architecto? Saepe, fuga! Fugiat consequuntur voluptates dicta nostrum laudantium maiores eos voluptas, quae eveniet exercitationem voluptatibus id, consequatur vitae ratione!
-                        Nam, placeat iusto facilis magni similique impedit distinctio odio. Quam dicta voluptatem, exercitationem quaerat dolores sequi recusandae eligendi assumenda perspiciatis qui, dolorem reiciendis quibusdam? Perferendis unde nobis magnam temporibus recusandae.
-                        Beatae rerum, recusandae alias inventore saepe doloremque eligendi quod architecto! Dignissimos, quis. Quas repellendus repudiandae sed perspiciatis sint? Modi minus voluptatum voluptate natus doloribus ipsa nostrum in quo doloremque repellendus!</p>
 
 <?php endwhile;
 endif;
