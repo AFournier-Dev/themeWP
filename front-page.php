@@ -9,16 +9,10 @@
                         <h1>
                                 La méthodologie de conduite de projet dans l'entreprenariat
                         </h1>
-                        <h2>
+                        <h4>
                                 La création d'une entreprise vous tente mais vous n'êtes pas encore vraiment décidé ? Il vous manque "la bonne idée" pour songer sérieusement à vous lancer ?
-                        </h2>
-                        <p>Vous envisagez d'entreprendre ? Bienvenue. Nous vous proposons d 'expolorer la thématique des méthodes / méthodologies dans la conduite de projet entreprenariaux</p>
-
-
-                        <h3>
-                                En résumé
-                        </h3>
-
+                        </h4>
+                        <p>Bienvenue. Nous vous proposons d 'expolorer la thématique des méthodes / méthodologies dans la conduite de projet entreprenariaux</p>
                         <ul>
                                 <li>
                                         Tout le monde peut créer une entreprise, dès l’instant où l’on construit un projet à sa mesure, cohérent avec ses valeurs, sa personnalité, ses ambitions, ses objectifs personnels et bien sûr ses possibilités financières.
@@ -37,9 +31,8 @@
                                 </li>
                         </ul>
 
-                        <h3>Contexte entreprenarial en France en 2021</h3>
-                        <p>21% des Français (soit 11 millions de personnes) déclarent avoir envie de créer une entreprise, d’en reprendre une ou de se mettre à leur compte en 2021. 58% d’entre eux (3,7 millions de personnes) déclarent vouloir concrétiser leur projet dans les deux ans à venir, soit une augmentation de 4 points par rapport à janvier 2020
-                                Des futurs entrepreneurs bien préparés. 34% des entrepreneurs potentiels déclarent cette année avoir un projet bien préparé à court terme, soit une augmentation de 3 points par rapport à la précédente édition du baromètre. Ce sont ainsi 7% des Français qui ont un projet d’entrepreneuriat prêt à débuter dans les deux ans. Autre signal positif, cette proportion reste dans la moyenne observée au cours des années passées (entre 5% et 7% depuis 2016). Des jeunes toujours séduits par l’aventure entrepreneuriale. Le baromètre démontre également le maintien de l’intérêt des jeunes pour les perspectives d’entrepreneuriat, et ce même avant leur entrée sur le marché du travail. Ce sont ainsi 36% des étudiants qui déclarent vouloir créer leur entreprise en 2021.
+                        <h3>Contexte entreprenarial en France pour 2021</h3>
+                        <p>21% des Français (soit 11 millions de personnes) déclarent avoir envie de créer une entreprise, d’en reprendre une ou de se mettre à leur compte en 2021. 58% d’entre eux (3,7 millions de personnes) déclarent vouloir concrétiser leur projet dans les deux ans à venir, soit une augmentation de 4 points par rapport à janvier 2020. Des futurs entrepreneurs bien préparés. 34% des entrepreneurs potentiels déclarent cette année avoir un projet bien préparé à court terme, soit une augmentation de 3 points par rapport à la précédente édition du baromètre. Ce sont ainsi 7% des Français qui ont un projet d’entrepreneuriat prêt à débuter dans les deux ans. Autre signal positif, cette proportion reste dans la moyenne observée au cours des années passées (entre 5% et 7% depuis 2016). Des jeunes toujours séduits par l’aventure entrepreneuriale. Le baromètre démontre également le maintien de l’intérêt des jeunes pour les perspectives d’entrepreneuriat, et ce même avant leur entrée sur le marché du travail. Ce sont ainsi 36% des étudiants qui déclarent vouloir créer leur entreprise en 2021.
                         </p>
                         <h3>
                                 Il y a différentes façons d’entreprendre.
@@ -67,12 +60,25 @@
                         <h2>
                                 Pourquoi la notion de méthode</h2>
                         <p>
-                                La définition de méthode est l' <q>ensemble de démarches raisonnées, suivies pour parvenir à un but.</q>
+                                La définition de méthode est l' <q>ensemble de démarches raisonnées, suivies pour parvenir à un but.</q> Au vu des différents schémas entreprenariaux nous pensons que des outils et des méthodes peuvent aider tout entrepreneur. Il est à rapeler que la notion entreprenarial peut-être étendu pour certain employé. Si vous êtes responsable de projet, developpeur, biz dev ... la notion entreprenarial est intrasequement au coeur de votre travail. Que vous le vouliez ou que vous le subisser. Ensuite il y a plusieurs stade dans l'entreprenariat: le début du projet , ou la multinationnal qui intègre les process LEAN au sein de son environnement.
+                        </p>
+                        <p>
+                                Pour les curieux, ceux qui veulent entreprendre, ceux qui entreprennent, et ceux qui lirons ces articles. Nous vous proposons trois thèmes ici sur ce site. Un pourquoi des méthodes qui traduit pourquoi vous devriez, pourriez vous intéresser à la méthodologie. La méthodologie est l'étude de l'ensemble des méthodes scientifiques. Elle peut être considérée comme la science de la méthode, ou « méthode des méthodes ». Wikipédia.
+                        </p>
+                        <p>
+                                Ensuite nous vous proposons plusieurs méthodes, malheureseument elle ne sont pas exaustive (en fait heureusement elle ne sont pas exaustive)
+                        </p>
+                        <p>
+                                Enfin nous vous proposons d'appliquer des méthodes.
+                        </p>
+                        <p>
+                                Rien ne vous empêche de commencer par la fin et d'appliquer avant de comprendre pourquoi. Rien ne vous empêche d'entreprendre, enfin pas autant que ce que vous pensez à de rare execption. Nous avons créer un liens pour chacune des thématiques. Nous espérons que ce goût de l'entreprenariat sera mis en exergue au travers de ce site.
                         </p>
 
 
-
                 </div>
+
+                <!--
 
                 <div class="container mt-2">
                         <h3>La méthodologie de conduite de projet dans l'entreprenariat</h3>
@@ -84,17 +90,19 @@
                         <p> La méthodologie est l'étude de l'ensemble des méthodes scientifiques. Elle peut être considérée comme la science de la méthode, ou « méthode des méthodes ». Wikipédia</p>
                 </div>
 
+                -->
+
                 <div class="d-grid gap-2 col-6 mx-auto mt-2 ">
                         <div class="row mt-2 mb-2">
                                 <div class="col-4">
                                         <a href="
-                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-danger" style="background-color: #FC0D0B;">Pourquoi des méthodes</a>
+                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-primary" style="background-color: #0D6EFD;">Pourquoi des méthodes</a>
                                 </div>
                                 <div class="col-4">
-                                        <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-danger" style="background-color: #FC0D0B;">Quelques méthodes</a>
+                                        <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-primary" style="background-color: #0D6EFD;">Quelques méthodes</a>
                                 </div>
                                 <div class="col-4">
-                                        <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-danger" style="background-color: #FC0D0B;">Appliquer des méthodes</a>
+                                        <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-primary" style="background-color: #0D6EFD;">Appliquer des méthodes</a>
                                 </div>
                         </div>
                 </div>
