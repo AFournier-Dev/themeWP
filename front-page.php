@@ -6,9 +6,9 @@
 
                 <div class="container mt-4">
 
-                        <h1>
+                        <h2>
                                 La méthodologie de conduite de projet dans l'entreprenariat
-                        </h1>
+                        </h2>
                         <h4>
                                 La création d'une entreprise vous tente mais vous n'êtes pas encore vraiment décidé ? Il vous manque "la bonne idée" pour songer sérieusement à vous lancer ?
                         </h4>
@@ -96,13 +96,13 @@
                         <div class="row mt-2 mb-2">
                                 <div class="col-4">
                                         <a href="
-                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-primary" style="background-color: #0D6EFD;">Pourquoi des méthodes</a>
+                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-dark" style="background-color: #1c1f23;">Pourquoi des méthodes</a>
                                 </div>
                                 <div class="col-4">
-                                        <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-primary" style="background-color: #0D6EFD;">Quelques méthodes</a>
+                                        <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-dark" style="background-color: #1c1f23;">Quelques méthodes</a>
                                 </div>
                                 <div class="col-4">
-                                        <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-primary" style="background-color: #0D6EFD;">Appliquer des méthodes</a>
+                                        <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-dark" style="background-color: #1c1f23;">Appliquer des méthodes</a>
                                 </div>
                         </div>
                 </div>
@@ -110,7 +110,7 @@
 
                 <!-- <div class="d-grid gap-2 col-6 mx-auto mt-2">
                         <div class="row mt-2">
-                                <a href="<?php /* |||php à remplacer par = car ici on echo||| get_post_type_archive_link('post')*/ ?>" class="btn btn-primary">Voir les archives</a>
+                                <a href="<?php /* |||php à remplacer par = car ici on echo||| get_post_type_archive_link('post')*/ ?>" class="btn btn-light">Voir les archives</a>
                         </div>
                 </div> -->
 

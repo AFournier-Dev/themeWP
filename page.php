@@ -5,7 +5,7 @@
     <?php if (have_posts()) :
         while (have_posts()) :
             the_post(); ?>
-            <h1 class="text-center"><?php the_title(); ?></h1>
+            <h2 class="text-center"><?php the_title(); ?></h2>
             <div class="intro">
                 <?php the_content(); ?>
             </div>

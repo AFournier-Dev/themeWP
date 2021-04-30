@@ -2,8 +2,11 @@
 Theme Name: apprendreetcommencer
 */
 
+h2, h3 {
+    color: black;
+}
 
-
-h1, h2, h3 {
-    color: #f542f5;
-   }
+h1 {
+    margin-left: 10%;
+    color: white;
+}
