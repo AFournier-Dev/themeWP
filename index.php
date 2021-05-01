@@ -23,7 +23,7 @@
                 <div class="col">
                     <h3><?php the_title(); ?></h3>
                     <p><?php the_excerpt() ?> </p>
-                    <a href="<?php the_permalink() ?>">Voir l'article</a>
+                    <a class="btn bg-dark text-white mb-5" href="<?php the_permalink() ?>">Voir l'article</a>
                 </div>
         <?php endwhile;
         endif;
@@ -42,7 +42,7 @@
                 <div class="col">
                     <h3><?php the_title(); ?></h3>
                     <p><?php the_excerpt() ?> </p>
-                    <a href="<?php the_permalink() ?>">Voir l'article</a>
+                    <a class="btn bg-dark text-white mb-5" href="<?php the_permalink() ?>">Voir l'article</a>
                 </div>
         <?php endwhile;
         endif;
@@ -62,7 +62,7 @@
                 <div class="col">
                     <h3><?php the_title(); ?></h3>
                     <p><?php the_excerpt() ?> </p>
-                    <a href="<?php the_permalink() ?>">Voir l'article</a>
+                    <a class="btn bg-dark text-white mb-5" href="<?php the_permalink() ?>">Voir l'article</a>
                 </div>
         <?php endwhile;
         endif;

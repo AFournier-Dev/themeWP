@@ -30,3 +30,9 @@ h1 {
 #navbarSupportedContent {
     align-items: flex-end;
 }
+
+li {
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+}
