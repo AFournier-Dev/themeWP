@@ -2,11 +2,31 @@
 Theme Name: apprendreetcommencer
 */
 
-h2, h3 {
+h2, h3, h3, h4, h5, h6 {
     color: black;
+    margin: 2rem 0;
 }
 
 h1 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     margin-left: 10%;
     color: white;
+}
+
+#navbarSupportedContent {
+    justify-content: space-around;
+}
+
+#menu-item {
+    color: white;
+}
+
+#menu-pied-de-page {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#navbarSupportedContent {
+    align-items: flex-end;
 }
