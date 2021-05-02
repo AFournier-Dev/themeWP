@@ -6825,13 +6825,13 @@ er38HzXLJWXcoD45AAAAAElFTkSuQmCC">
 
                         <div class="mb-5 mt-5">
                                 <a href="
-                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-dark" style="background-color: #1c1f23;">Pourquoi des méthodes</a>
+                                <?= get_home_url() ?>/pourquoi-des-methodes" class="btn btn-dark btn-outline-light" style="">Pourquoi des méthodes</a>
                         </div>
                         <div class="mb-5 mt-5">
-                                <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-dark" style="background-color: #1c1f23;">Quelques unes des méthodes</a>
+                                <a href="<?= get_home_url() ?>/quelques-methodes" class="btn btn-dark btn-outline-light" style="">Quelques unes des méthodes</a>
                         </div>
                         <div class="mb-5 mt-5">
-                                <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-dark" style="background-color: #1c1f23;">Appliquer des méthodes</a>
+                                <a href="<?= get_home_url() ?>/appliquer-les-methodes" class="btn btn-dark btn-outline-light" style="">Appliquer des méthodes</a>
                         </div>
 
 

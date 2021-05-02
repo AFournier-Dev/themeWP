@@ -28,7 +28,7 @@
         if ($my_query->have_posts()) : while ($my_query->have_posts()) : $my_query->the_post();
         ?>
                 <div class="col-12 col-md-4 character">
-                    <a class="btn bg-dark text-white" href="<?= the_permalink(); ?>">
+                    <a class="btn btn-dark btn-outline-light" href="<?= the_permalink(); ?>">
                         <img src=" <?= get_the_post_thumbnail_url() ?>" class="w-100">
                         <h3><?php the_title(); ?></h3>
                     </a>
@@ -68,7 +68,12 @@
     $my_query = new WP_Query($args);
     if ($my_query->have_posts()) : while ($my_query->have_posts()) : $my_query->the_post();
             the_content(); ?>
-            <a class="btn bg-dark text-white" href="<?php the_permalink() ?>">lien </a>
+
+            <div class="d-grid gap-2">
+                <a class="btn btn-dark btn-outline-light mb-5" href="<?php the_permalink() ?>">L'article</a>
+            </div>
+
+
 
     <?php endwhile;
     endif;

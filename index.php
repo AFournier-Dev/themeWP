@@ -11,7 +11,7 @@
 <div class="d-flex justify-content-center">
 
     <div>
-        <h2>Pourquoi les méthodes</h2>
+        <h2 class="d-grid gap-2 d-md-flex justify-content-md-center mb-5">Pourquoi les méthodes</h2>
         <?php
         $args = [
             'category_name' => 'pourquoi-des-methodes',
@@ -23,14 +23,16 @@
                 <div class="col">
                     <h3><?php the_title(); ?></h3>
                     <p><?php the_excerpt() ?> </p>
-                    <a class="btn bg-dark text-white mb-5" href="<?php the_permalink() ?>">Voir l'article</a>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-5">
+                        <a class="btn btn-dark btn-outline-light " href="<?php the_permalink() ?>">Voir l'article</a>
+                    </div>
                 </div>
         <?php endwhile;
         endif;
         wp_reset_postdata(); ?>
     </div>
     <div>
-        <h2>Quelques méthodes</h2>
+        <h2 class="d-grid gap-2 d-md-flex justify-content-md-center mb-5">Quelques méthodes</h2>
         <?php
         $args = [
             'category_name' => 'quelques-methodes',
@@ -42,7 +44,9 @@
                 <div class="col">
                     <h3><?php the_title(); ?></h3>
                     <p><?php the_excerpt() ?> </p>
-                    <a class="btn bg-dark text-white mb-5" href="<?php the_permalink() ?>">Voir l'article</a>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-center mb-5">
+                        <a class="btn btn-dark btn-outline-light " href="<?php the_permalink() ?>">Voir l'article</a>
+                    </div>
                 </div>
         <?php endwhile;
         endif;
@@ -50,7 +54,7 @@
     </div>
 
     <div>
-        <h2>Appliquer les méthodes</h2>
+        <h2 class="d-grid gap-2 d-md-flex justify-content-md-center mb-5">Appliquer les méthodes</h2>
         <?php
         $args = [
             'category_name' => 'appliquer-les-methodes',
@@ -62,7 +66,12 @@
                 <div class="col">
                     <h3><?php the_title(); ?></h3>
                     <p><?php the_excerpt() ?> </p>
-                    <a class="btn bg-dark text-white mb-5" href="<?php the_permalink() ?>">Voir l'article</a>
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end mb-5">
+                        <a class="btn btn-dark btn-outline-light " href="<?php the_permalink() ?>">Voir l'article</a>
+                    </div>
+
+
+
                 </div>
         <?php endwhile;
         endif;
